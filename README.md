@@ -20,6 +20,6 @@ This jupyter notebook has the training of the model after adding the SE block an
 
 To run the model on the testing set, follow these steps:
 
-1. **Step 1:**: the dataset with the csv file of the splits are uploaded on the drive, please download them and adjust the paths in the code as needed.
-2. **Step 2:**: in testing_models.ipynb run the cell corresponding to the model experiment, the weights for evaluation are uploaded on the drive, please download them and adjust the paths in the code as needed.
+1. **Step 1:**: the dataset with the csv file of the splits are uploaded on the drive : https://drive.google.com/drive/folders/1imSeECGE5nBAC_clgqXsWVUYUxLiauQA?usp=sharing , please download them and adjust the paths in the code as needed.
+2. **Step 2:**: in testing_models.ipynb run the cell corresponding to the model experiment, the weights for evaluation are uploaded on the drive : https://drive.google.com/drive/folders/1buIRPpakWptZLJe1xGbVCkaKm0NnNCwV?usp=sharing , please download them and adjust the paths in the code as needed.
 3. **Step 3:**: Run the cell of the model of choice, then run the evalation/testing cells.
